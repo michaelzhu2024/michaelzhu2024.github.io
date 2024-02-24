@@ -38,19 +38,6 @@ Using your smartphone to scan the QR Code
 - 博客文章搜索
 - 复制文章内容自动添加版权
 
-#### EN
-
-- Code highlight
-- Night mode
-- Disqus Comment System
-- Theme color: Blue & Pink
-- Hero Patterns
-- Responsive design
-- SNS Icon
-- Title SEO
-- Tags system
-- Search
-- Copyright text on copy event
 
 ### Usage 快速开始
 
