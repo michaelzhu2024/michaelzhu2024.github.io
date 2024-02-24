@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: '朱远卓'
 nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+bio: '自由开发者，热爱高技术，简单乐观爱创造'
 avatar: 'https://t.tdo.ink/Michaelzhu/s6aSdna2.jpg'
 
 # Search
@@ -56,10 +56,10 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  weibo: '//weibo.com/XXX'
+  juejin: '//juejin.im/user/XXXXXXXXXXX'
+  instagram: '//www.instagram.com/XXX'
+  github: '//github.com/XXX'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
