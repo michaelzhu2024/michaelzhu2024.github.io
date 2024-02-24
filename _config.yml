@@ -33,7 +33,7 @@ avatar: 'https://t.tdo.ink/Michaelzhu/s6aSdna2.jpg'
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments 评论功能
 comments:
